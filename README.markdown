@@ -1,6 +1,6 @@
 Collaborative git
 ================
-
+Hi! my name is Oliver
 Hi! Welcome to the more ambitious part of this whole shindig.
 
 If you're reading this it means you understand how git works well enough to
